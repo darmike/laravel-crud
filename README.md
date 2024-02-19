@@ -6,3 +6,4 @@ If you want learn more about this project. You can visit [Laravel CRUD in 50 min
 
 
 
+# laravel-crud
